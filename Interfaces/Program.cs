@@ -11,8 +11,8 @@ namespace Interfaces
     {
         static void Main(string[] args)
         {
-            var square = new Square(5); //Create a square
-            DisplayPolygon("Square", square);  //Display the squares properties
+            var triangle = new Triangle(5); //Create a square
+            DisplayPolygon("Triangle", triangle);  //Display the squares properties
 
             Console.Read();
         }
