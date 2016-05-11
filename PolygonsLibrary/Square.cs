@@ -14,9 +14,9 @@ namespace PolygonsLibrary
 
         }
 
-        public override double GetArea() 
-        {
-            return SideLength * SideLength;
-        }
+        //public override double GetArea() 
+        //{
+        //    return SideLength * SideLength;
+        //}
     }
 }
