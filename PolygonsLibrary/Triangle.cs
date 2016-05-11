@@ -8,7 +8,7 @@ namespace PolygonsLibrary
 {
     public class Triangle : AbstractRegularPolygon
     {
-        public Triangle(int sides, int length) : base(sides, length)
+        public Triangle(int length) : base(3, length)
         {
         }
 
