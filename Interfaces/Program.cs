@@ -10,6 +10,7 @@ namespace Interfaces
     {
         static void Main(string[] args)
         {
+            
         }
     }
 }
