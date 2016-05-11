@@ -18,5 +18,7 @@ namespace PolygonsLibrary
         //{
         //    return SideLength * SideLength;
         //}
+
+        // RESULT - We get a not implemented exception.  See the ConcreteRegularPolygon class.
     }
 }
