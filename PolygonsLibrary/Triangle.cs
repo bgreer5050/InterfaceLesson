@@ -12,9 +12,9 @@ namespace PolygonsLibrary
         {
         }
 
-        public override double GetArea()
-        {
-            throw new NotImplementedException();
-        }
+        //public override double GetArea()
+        //{
+        //    throw new NotImplementedException();
+        //}
     }
 }
