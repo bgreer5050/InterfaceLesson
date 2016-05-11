@@ -14,11 +14,10 @@ namespace PolygonsLibrary
 
         }
 
-        //public override double GetArea() 
-        //{
-        //    return SideLength * SideLength;
-        //}
+        public override double GetArea()
+        {
+            return SideLength * SideLength;
+        }
 
-        // RESULT - We get a not implemented exception.  See the ConcreteRegularPolygon class.
     }
 }
